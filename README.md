@@ -2,7 +2,7 @@
 
 A demo Dash app for task progress tracking. 
 
-It includes 3 major components in the app:
+It includes 3 major interactive components in the app:
 
 1. Gantt Chart visualization
 
